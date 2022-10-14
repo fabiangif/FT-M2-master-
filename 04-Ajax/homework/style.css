@@ -1,0 +1,11 @@
+#title {
+    background-color: azure;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 15px;
+    padding: 5%;
+}
+
+#boton {
+    object-position: center;
+}
