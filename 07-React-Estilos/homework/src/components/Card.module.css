@@ -1,0 +1,51 @@
+body {
+    
+}
+
+.container {
+  width: 550px; 
+  border: gray 2px groove; 
+  border-radius: 3px;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.title {
+    padding: 10px;
+    display: flex;
+    background-color: gray;
+    text-align: center;
+}
+
+.title button {
+    font-style: bold;
+    background-color: transparent;
+    margin: 10px;
+    color: white;
+    border: none;
+    position: absolute;
+    left: 505px;
+    top: 2px;
+}
+
+.temp {
+    padding: 15px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 10px;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.temp p{
+    font-family: sans-serif;   
+}
+
+.temp img {
+    grid-column: 1/3;
+    margin: 0 auto;
+
+}
+
