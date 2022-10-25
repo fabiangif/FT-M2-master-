@@ -1,0 +1,15 @@
+body {
+    background-color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+#incremento {
+    text-decoration: none;
+    background-image: white ;
+}

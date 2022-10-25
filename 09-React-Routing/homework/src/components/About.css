@@ -4,4 +4,6 @@ h1 {
 
 #info {
     background-color: rgb(103, 103, 103);
+    flex-wrap: wrap;
+    justify-content: center;
 }
